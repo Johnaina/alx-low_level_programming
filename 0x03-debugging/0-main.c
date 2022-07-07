@@ -6,6 +6,9 @@
  */
 
 int main(void)
+/**
+ * i have added comment cos of betty
+ */
 {
 	int i;
 
