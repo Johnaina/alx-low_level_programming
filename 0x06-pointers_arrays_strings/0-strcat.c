@@ -17,6 +17,6 @@ char *_stract(char *dest, char *src)
 
 	for (index = 0; src[index]; index++)
 		dest[dest_len++] = src[index];
-	
+
 	return (dest);
 }
